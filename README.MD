@@ -60,10 +60,10 @@ I am a software developer student at [Trybe](https://www.betrybe.com/).
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://caio-magalhaes.github.io)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/caio-magalhaes-dev/)
- [<a href="mailto:caiogmagalhaesdevtech@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white&color=black"></a>](mailto:caiogmagalhaesdevtech@gmail.com)
+ [<a href="mailto:caiomagalhaesdevtech@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=email&logoColor=white&color=black"></a>](mailto:caiomagalhaesdevtech@gmail.com)
 </p>
 
-| <a href="https://github.com/caio-magalhaes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-magalhaes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="caio's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/caio-magalhaes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=caio-magalhaes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="caio's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-magalhaes&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
