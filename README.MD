@@ -3,7 +3,7 @@
 I am a software developer student at [Trybe](https://www.betrybe.com/).                                                     
 
  **I am open to**:
-- any collobration work
+- any collaboration work
 
 ## Skills:
 
