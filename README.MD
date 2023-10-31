@@ -1,6 +1,7 @@
 ### Hi there, I'm [Caio Magalhães](https://caio-magalhaes.github.io) 👋
+ <div align="center"><img height="150" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"  /></div>
 
-I am a software developer student at [Trybe](https://www.betrybe.com/).                                                      <div align="center"><img height="150" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"  /></div>
+I am a software developer student at [Trybe](https://www.betrybe.com/).                                                     
 
  **I am open to**:
 - any collobration work
