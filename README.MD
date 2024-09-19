@@ -1,6 +1,6 @@
 ### Hi there, I'm [Caio Magalhães](https://caio-magalhaes.github.io) 👋
 
-I am a software developer student at [Trybe](https://www.betrybe.com/).                                                     
+I am a software developer student                                                    
 
  **I am open to**:
 - any collaboration work
